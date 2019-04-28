@@ -1,6 +1,6 @@
 <template>
   <ul id="work" class="Portfolio">
-    <li v-for="item in Portfolio.items" class="Portfolio__Content__Card" :style="item.image | truncate(8)" :key="item.title">
+    <li v-for="item in Portfolio.items" class="Portfolio__Content__Card" :style="item.image | truncate(0)" :key="item.title">
       <h2>{{ item.title }}</h2>
     </li>
   </ul>

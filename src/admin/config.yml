@@ -6,12 +6,12 @@ backend:
   repo: yoanmarchal/website
 
 media_folder: "static/images"
-public_folder: "images"
+public_folder: "static/images/uploads"
 
 collections:
-  - name: "blogs"
-    label: "Blogs"
-    folder: "blog"
+  - name: "Posts"
+    label: "Posts"
+    folder: "src/data/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
