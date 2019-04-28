@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <span>Copyright © 2018 Gridsome</span>
+    <span>Copyright © 2019 Gridsome</span>
     <ul>
       <li>
 				<a href="#about">About</a>
