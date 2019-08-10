@@ -4227,10 +4227,10 @@ gridsome-plugin-netlify-cms@1.0.9:
     webpack "^4.29.0"
     webpack-dev-middleware "^3.5.1"
 
-gridsome@0.6.5:
-  version "0.6.5"
-  resolved "https://registry.yarnpkg.com/gridsome/-/gridsome-0.6.5.tgz#62be3e0f0082afc628481728ad2311630f570b78"
-  integrity sha512-ZM1bpATqaalJFQw8O/0oReEOcmwNBFjUrDQkF/0QLU98dmkl6xdF9SVRahWQde/5uQf2mbt0NV9gjorhnG68Wg==
+gridsome@0.6.7:
+  version "0.6.7"
+  resolved "https://registry.yarnpkg.com/gridsome/-/gridsome-0.6.7.tgz#f86232e18426acda78b97b552cccdf310240a765"
+  integrity sha512-0BuCq2YF2edRfkhI4phsBywB2XX9P5yMfbNy4nStNKU6187UsvnQO/aYjSl1m1rxoBSAFvvOBTuo0VXXKpf4Qw==
   dependencies:
     "@babel/core" "^7.0.0"
     "@gridsome/cli" "^0.2.1"
