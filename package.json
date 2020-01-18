@@ -10,7 +10,7 @@
 		"@gridsome/transformer-remark": "0.4.0",
 		"gridsome": "0.7.10",
 		"gridsome-plugin-netlify-cms": "1.0.9",
-		"netlify-cms": "2.9.7",
+		"netlify-cms": "2.10.8",
 		"node-sass": "4.13.0",
 		"sass-loader": "7.3.1"
 	},
